@@ -26,7 +26,9 @@ ChatGPT 国内博客：[点击查看](https://chatgpt-cnblog.com)
 
 > **说明**：OpenAI 对部分国家和地区的访问与注册设有差异化策略。官网的具体可访问性、注册要求及功能范围可能随官方政策调整而变化，建议以官网实时提示为准。遇到登录或注册问题时，可查阅 [OpenAI 帮助中心](https://help.openai.com)。
 
-![Alt Text: ChatGPT官网首页](/images/chatgpt-home.png)
+**[ChatGPT 国内使用指南](https://chatgpt-cnblog.com)**  
+**[ChatGPT 新手教程](https://gemini-cnblog.com)** 
+
 ---
 
 ## 📋 目录
